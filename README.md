@@ -45,15 +45,4 @@ HTML5: For the game layout and structure.
 CSS3: For styling the game board, dots, and modal.
 JavaScript (ES6): For dynamic DOM manipulation, gameplay logic, and modal interactions.
 
-**How to Run the Project**
-
-Clone the repository:
-git clone https://github.com/DidIvanova/color-matching-game.git
-
-cd color-matching-game
-
-Open index.html in any web browser:
-
-open index.html
-
 Play and enjoy the game!
